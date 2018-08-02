@@ -1,0 +1,13 @@
+univ\domain\Course.class
+univ\web\TeacherController.class
+univ\repos\CourseRepo.class
+univ\domain\Teacher.class
+univ\Application$SampleDataPopulator.class
+univ\Application.class
+univ\util\ClasspathResourceUtils.class
+univ\web\CourseController.class
+univ\web\StudentController.class
+univ\repos\TeacherRepo.class
+univ\repos\StudentRepo.class
+univ\domain\Student.class
+univ\config\CloudFoundryDatabaseConfig.class
